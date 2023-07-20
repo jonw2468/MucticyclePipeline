@@ -1,7 +1,6 @@
 # MucticyclePipeline
 
-Jon Woods
-July 7, 2023
+Jon Woods; July 7, 2023
 
 INSTRUCTION MANUAL
 
